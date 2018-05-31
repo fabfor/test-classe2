@@ -1,0 +1,28 @@
+.row{
+  height: 150px;
+  background: red
+}
+
+.recap{
+  display: inline-block;
+  text-align: center;
+  padding: 15px;
+  width: 20%;
+}
+
+.details{
+  display: inline-block;
+  width:60%;
+  height: 100%;
+  line-height: 150px;
+}
+
+.actions{
+  display: inline-block;
+  height: 100%;
+  line-height: 150px;
+}
+
+.status {
+  display: inline-block;
+}
